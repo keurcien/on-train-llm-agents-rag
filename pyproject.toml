@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "on-train-llm-agents-rag"
+version = "0.1.0"
+description = ""
+authors = ["keurcien <keurcien.luu@gmail.com>"]
+readme = "README.md"
+packages = [{include = "on_train_llm_agents_rag"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.3.6"
+langchain-community = "^0.3.4"
+langgraph = "^0.2.41"
+langfuse = "^2.53.3"
+beautifulsoup4 = "^4.12.3"
+pypdf = "^5.1.0"
+langchain-openai = "^0.2.4"
+python-dotenv = "^1.0.1"
+langchain-experimental = "^0.3.2"
+langchain-chroma = "^0.1.4"
+ragas = "^0.2.3"
+duckduckgo-search = "^6.3.3"
+nltk = "^3.9.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

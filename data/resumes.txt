@@ -1,0 +1,65 @@
+Job Title: Junior Frontend Developer
+Job Type: Full-Time
+
+About Us:
+We are a dynamic and innovative retail company at the forefront of e-commerce and digital transformation. Our mission is to create seamless and delightful customer experiences both online and in-store. Join our talented tech team and play a key role in shaping the future of retail.
+
+Job Summary:
+As a Junior Frontend Developer, you will work closely with our development team to create, optimize, and maintain user-facing web applications. This role offers the opportunity to learn and grow while contributing to projects that enhance our customer journey. If you have a passion for web development, a knack for problem-solving, and a keen eye for detail, we’d love to hear from you.
+
+Key Responsibilities:
+Collaborate with designers and backend developers to implement responsive and accessible web pages.
+Write clean, maintainable, and well-documented code using modern frontend technologies.
+Participate in code reviews and team brainstorming sessions to ensure code quality and innovative solutions.
+Debug and resolve technical issues to enhance the performance and functionality of web applications.
+Stay updated with industry trends, emerging technologies, and best practices in frontend development.
+Required Technical Skills:
+HTML5 & CSS3: Strong understanding of semantic HTML and CSS for building responsive and visually appealing web pages.
+JavaScript (ES6+): Experience with modern JavaScript, including understanding of DOM manipulation and event handling.
+Version Control (Git): Basic knowledge of using Git for collaboration and version control in a team environment.
+Frontend Frameworks: Familiarity with a framework such as React.js, Vue.js, or Angular. React.js is preferred.
+Browser Developer Tools: Proficiency in using browser tools for debugging, performance monitoring, and testing.
+
+
+# Candidate 1. React Frontend Developer (Internship at Shopify)
+Name: Emily Taylor
+Education: Bachelor of Computer Science, University of Waterloo
+Experience Level: Junior Frontend Developer
+
+Key Skills:
+React.js: Developed interactive and dynamic components using React Hooks and functional components.
+JavaScript (ES6+): Proficient in modern JavaScript features like destructuring, async/await, and modules.
+CSS-in-JS (Styled Components): Styled React components with scalable, reusable styles.
+REST APIs: Integrated and handled data from APIs for dynamic web applications.
+Git/GitHub: Collaborated on projects using version control systems.
+Internship Project:
+Shopify: Contributed to creating a dynamic admin dashboard that visualized store analytics, such as sales trends and customer engagement. Designed React components for the dashboard and implemented lazy loading to optimize performance for high data volumes.
+
+# Candidate 2. Vue Frontend Developer (Internship at a Financial Company)
+Name: Liam Chen
+Education: Bachelor of Software Engineering, University of California, Berkeley
+Experience Level: Junior Frontend Developer
+
+Key Skills:
+Vue.js: Created and optimized single-page applications using Vue CLI and Vuex for state management.
+JavaScript (ES6+): Experienced in advanced JavaScript patterns and event handling.
+SCSS: Used modular SCSS for styling and maintaining consistent design systems.
+Webpack: Configured build tools for optimizing application performance.
+Testing Frameworks (Jest): Wrote unit tests for components to ensure robustness.
+Internship Project:
+Financial Company: Designed and implemented a loan calculator tool for a customer portal. The tool provided users with real-time loan term projections based on input variables, improving customer engagement by 25%.
+
+
+# Candidate 3. Backend Developer (Internship at Google)
+Name: Sarah Kumar
+Education: Bachelor of Computer Science, Stanford University
+Experience Level: Junior Backend Developer
+
+Key Skills:
+Python: Developed scalable backend applications and handled data pipelines.
+Django: Built RESTful APIs and integrated them with frontend systems.
+SQL (PostgreSQL): Wrote optimized queries for complex data retrieval tasks.
+Docker: Containerized applications to standardize development and deployment environments.
+Cloud Services (Google Cloud Platform): Used GCP tools for deployment and data processing.
+Internship Project:
+Google: Built a microservice for Gmail that identified and flagged potential phishing emails using machine learning techniques. Improved phishing detection accuracy by 15% and scaled the service to handle millions of users.
